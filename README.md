@@ -7,3 +7,5 @@ I find it from Chrome history :(
 # 2017-12-08 5:47PM
 
 * node local.js, then http://localhost:3000/ui5/
+
+This example shows how to use HEROKU for UI5/EXPRESS
